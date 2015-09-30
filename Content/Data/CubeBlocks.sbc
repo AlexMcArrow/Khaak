@@ -16327,8 +16327,8 @@
       <BuildTimeSeconds>200</BuildTimeSeconds>
       
       <ResourceSinkGroup>Defense</ResourceSinkGroup>
-      <SensorRadius>11</SensorRadius>
-      <SensorOffset>11</SensorOffset>
+      <SensorRadius>1.1</SensorRadius>
+      <SensorOffset>0.8</SensorOffset>
       
       <DeformationRatio>0.001</DeformationRatio>
       <DamageEffectId>212</DamageEffectId>
