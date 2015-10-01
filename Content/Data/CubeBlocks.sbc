@@ -15430,7 +15430,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>40</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <MaximumRange>100000</MaximumRange>
+      <MaximumRange>50000</MaximumRange>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
     </Definition>
@@ -16421,7 +16421,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <MaximumRange>50000</MaximumRange>
+      <MaximumRange>25000</MaximumRange>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
     </Definition>
