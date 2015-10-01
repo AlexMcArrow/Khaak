@@ -16303,14 +16303,13 @@
       <UseModelIntersection>true</UseModelIntersection>
       <Components>
         <Component Subtype="GravityGenerator" Count="1" />
-        <Component Subtype="SteelPlate" Count="200" />
         <Component Subtype="Construction" Count="300" />
         <Component Subtype="LargeTube" Count="40" />
         <Component Subtype="Motor" Count="10" />
         <Component Subtype="Computer" Count="10" />
-        <Component Subtype="SteelPlate" Count="120" />
+        <Component Subtype="SteelPlate" Count="320" />
       </Components>
-      <CriticalComponent Subtype="Computer" Index="0" />
+      <CriticalComponent Subtype="SteelPlate" Index="0" />
       <MountPoints>
         <MountPoint Side="Back" StartX="0" StartY="1" EndX="3" EndY="2" />
         <MountPoint Side="Right" StartX="0" StartY="1" EndX="2" EndY="2" />
@@ -16349,7 +16348,7 @@
       <Model>Models\Cubes\Large\drill.mwm</Model>
       <UseModelIntersection>true</UseModelIntersection>
       <Components>
-        <Component Subtype="GravityGenerator" Count="1000" />
+        <Component Subtype="GravityGenerator" Count="100" />
         <Component Subtype="Computer" Count="500" />
         <Component Subtype="Motor" Count="500" />
         <Component Subtype="Construction" Count="4000" />
@@ -16462,7 +16461,7 @@
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
-      <MaxRange>50</MaxRange>
+      <MaxRange>500</MaxRange>
     </Definition>
     <Definition xsi:type="MyObjectBuilder_SensorBlockDefinition">
       <Id>

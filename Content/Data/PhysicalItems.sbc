@@ -9,12 +9,12 @@
       <DisplayName>DisplayName_Item_StoneOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Stone</IconSymbol>
     </PhysicalItem>
@@ -26,12 +26,12 @@
       <DisplayName>DisplayName_Item_IronOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Fe</IconSymbol>
     </PhysicalItem>
@@ -43,12 +43,12 @@
       <DisplayName>DisplayName_Item_NickelOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Ni</IconSymbol>
     </PhysicalItem>
@@ -60,12 +60,12 @@
       <DisplayName>DisplayName_Item_CobaltOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Co</IconSymbol>
     </PhysicalItem>
@@ -77,12 +77,12 @@
       <DisplayName>DisplayName_Item_MagnesiumOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Mg</IconSymbol>
     </PhysicalItem>
@@ -94,12 +94,12 @@
       <DisplayName>DisplayName_Item_SiliconOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Si</IconSymbol>
     </PhysicalItem>
@@ -111,12 +111,12 @@
       <DisplayName>DisplayName_Item_SilverOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Ag</IconSymbol>
     </PhysicalItem>
@@ -128,12 +128,12 @@
       <DisplayName>DisplayName_Item_GoldOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Au</IconSymbol>
     </PhysicalItem>
@@ -145,12 +145,12 @@
       <DisplayName>DisplayName_Item_PlatinumOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Pt</IconSymbol>
     </PhysicalItem>
@@ -162,12 +162,12 @@
       <DisplayName>DisplayName_Item_UraniumOre</DisplayName>
       <Icon>Textures\GUI\Icons\ore_UO2_uranite.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_U</IconSymbol>
     </PhysicalItem>
@@ -179,12 +179,12 @@
       <DisplayName>DisplayName_Item_Gravel</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.072</X>
+        <Y>0.072</Y>
+        <Z>0.072</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.37</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <IconSymbol>IconSymbol_Gravel</IconSymbol>
     </PhysicalItem>
@@ -505,12 +505,12 @@
       <DisplayName>DisplayName_Item_Ice</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Ice</IconSymbol>
     </PhysicalItem>
@@ -522,12 +522,12 @@
       <DisplayName>DisplayName_Item_Organic</DisplayName>
       <Icon>Textures\GUI\Icons\ore_biomass.dds</Icon>
       <Size>
-        <X>0.00007</X>
-        <Y>0.00007</Y>
-        <Z>0.00007</Z>
+        <X>0.07</X>
+        <Y>0.07</Y>
+        <Z>0.07</Z>
       </Size>
       <Mass>1</Mass>
-      <Volume>0.00074</Volume>
+      <Volume>0.037</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <IconSymbol>IconSymbol_Organic</IconSymbol>
     </PhysicalItem>
