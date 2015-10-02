@@ -9,7 +9,7 @@
       <DisplayName>DisplayName_Item_Gravel</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Prerequisites>
-        <Item Amount="10" TypeId="Ore" SubtypeId="Stone" />
+        <Item Amount="1" TypeId="Ore" SubtypeId="Stone" />
       </Prerequisites>
       <Result Amount="0.9" TypeId="Ingot" SubtypeId="Stone" />
       <BaseProductionTimeInSeconds>0.001</BaseProductionTimeInSeconds>
@@ -247,7 +247,6 @@
       <DisplayName>DisplayName_Item_Girder</DisplayName>
       <Icon>Textures\GUI\Icons\component\girder_component.dds</Icon>
       <Prerequisites>
-        <Item Amount="10" TypeId="Ingot" SubtypeId="Stone" />
       </Prerequisites>
       <Result Amount="1" TypeId="Component" SubtypeId="Girder" />
       <BaseProductionTimeInSeconds>0.01</BaseProductionTimeInSeconds>
@@ -263,9 +262,10 @@
         <Item Amount="12" TypeId="Ingot" SubtypeId="Iron" />
         <Item Amount="5" TypeId="Ingot" SubtypeId="Nickel" />
         <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Stone" />
       </Prerequisites>
       <Result Amount="1" TypeId="Component" SubtypeId="MetalGrid" />
-      <BaseProductionTimeInSeconds>0.02</BaseProductionTimeInSeconds>
+      <BaseProductionTimeInSeconds>0.03</BaseProductionTimeInSeconds>
     </Blueprint>
     <Blueprint>
       <Id>
