@@ -4,5 +4,5 @@ Content/Data/Ammos.sbc
 Content/Data/Blueprints.sbc
 Content/Data/CubeBlocks.sbc
 Content/Data/PhysicalItems.sbc
-Effects2/Lights/MyEffectPointLight.fxo
-Effects2/Lights/MyEffectPointLight.fx
+Content/Effects2/Lights/MyEffectPointLight.fxo
+Content/Effects2/Lights/MyEffectPointLight.fx
