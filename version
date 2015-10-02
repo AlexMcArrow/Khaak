@@ -1,6 +1,7 @@
-V23
-Content/Data/AmmoMagazines.sbc
-Content/Data/Ammos.sbc
-Content/Data/Blueprints.sbc
-Content/Data/CubeBlocks.sbc
-Content/Data/PhysicalItems.sbc
+Version@23
+U@Content/Data/AmmoMagazines.sbc
+U@Content/Data/Ammos.sbc
+U@Content/Data/Blueprints.sbc
+U@Content/Data/CubeBlocks.sbc
+U@Content/Data/PhysicalItems.sbc
+D@Content/test.txt
