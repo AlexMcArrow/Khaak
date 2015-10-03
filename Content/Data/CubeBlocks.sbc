@@ -14618,6 +14618,7 @@
       <Model>Models\Cubes\Large\Projector.mwm</Model>
       <Components>
         <Component Subtype="Reactor" Count="1000" />
+        <Component Subtype="GravityGenerator" Count="10" />
         <Component Subtype="SteelPlate" Count="11" />
         <Component Subtype="Construction" Count="4" />
         <Component Subtype="LargeTube" Count="2" />
@@ -14625,7 +14626,7 @@
         <Component Subtype="Computer" Count="2" />
         <Component Subtype="SteelPlate" Count="10" />
       </Components>
-      <CriticalComponent Subtype="Reactor" Index="0" />
+      <CriticalComponent Subtype="SteelPlate" Index="0" />
       <MountPoints>
         <MountPoint Side="Bottom" StartX="0.33" StartY="0.33" EndX="0.66" EndY="0.66" />
         <MountPoint Side="Back" StartX="0.33" StartY="0.33" EndX="0.66" EndY="0.66" />
@@ -14643,7 +14644,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <RequiredPowerInput>100</RequiredPowerInput>
+      <RequiredPowerInput>0.01</RequiredPowerInput>
       <Public>true</Public>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
@@ -14662,6 +14663,7 @@
       <Model>Models\Cubes\Small\Projector.mwm</Model>
       <Components>
         <Component Subtype="Reactor" Count="100" />
+        <Component Subtype="GravityGenerator" Count="10" />
 	<Component Subtype="SteelPlate" Count="1" />
         <Component Subtype="Construction" Count="2" />
         <Component Subtype="LargeTube" Count="2" />
@@ -14669,7 +14671,7 @@
         <Component Subtype="Computer" Count="2" />
         <Component Subtype="SteelPlate" Count="1" />
       </Components>
-      <CriticalComponent Subtype="Reactor" Index="0" />
+      <CriticalComponent Subtype="SteelPlate" Index="0" />
       <MountPoints>
         <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" />
         <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
@@ -14686,7 +14688,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <RequiredPowerInput>1</RequiredPowerInput>
+      <RequiredPowerInput>0.001</RequiredPowerInput>
       <Public>true</Public>
       <DamageEffectId>212</DamageEffectId>
       <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -19492,12 +19494,13 @@
       <Model>Models\Cubes\Large\TimerBlock.mwm</Model>
       <Components>
 	<Component Subtype="Reactor" Count="1000" />
+        <Component Subtype="GravityGenerator" Count="10" />
         <Component Subtype="InteriorPlate" Count="6" />
         <Component Subtype="Construction" Count="20" />
         <Component Subtype="Computer" Count="5" />
         <Component Subtype="Construction" Count="10" />
       </Components>
-      <CriticalComponent Subtype="Reactor" Index="0" />
+      <CriticalComponent Subtype="Construction" Index="0" />
       <MountPoints>
         <MountPoint Side="Left" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" />
         <MountPoint Side="Right" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" />
@@ -19532,12 +19535,13 @@
       <Model>Models\Cubes\Small\TimerBlock.mwm</Model>
       <Components>
 	<Component Subtype="Reactor" Count="100" />
+        <Component Subtype="GravityGenerator" Count="10" />
         <Component Subtype="InteriorPlate" Count="2" />
         <Component Subtype="Construction" Count="2" />
         <Component Subtype="Computer" Count="1" />
         <Component Subtype="Construction" Count="1" />
       </Components>
-      <CriticalComponent Subtype="Reactor" Index="0" />
+      <CriticalComponent Subtype="Construction" Index="0" />
       <BuildProgressModels>
         <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Small\TimerBlockConstruction_1.mwm" />
         <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Small\TimerBlockConstruction_2.mwm" />
