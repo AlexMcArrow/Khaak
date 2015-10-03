@@ -11,7 +11,7 @@
       <Prerequisites>
         <Item Amount="1" TypeId="Ore" SubtypeId="Stone" />
       </Prerequisites>
-      <Result Amount="0.9" TypeId="Ingot" SubtypeId="Stone" />
+      <Result Amount="0.09" TypeId="Ingot" SubtypeId="Stone" />
       <BaseProductionTimeInSeconds>0.001</BaseProductionTimeInSeconds>
     </Blueprint>
     <Blueprint>
