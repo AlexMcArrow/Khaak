@@ -14617,6 +14617,7 @@
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Large\Projector.mwm</Model>
       <Components>
+        <Component Subtype="Reactor" Count="1000" />
         <Component Subtype="SteelPlate" Count="11" />
         <Component Subtype="Construction" Count="4" />
         <Component Subtype="LargeTube" Count="2" />
@@ -14624,7 +14625,7 @@
         <Component Subtype="Computer" Count="2" />
         <Component Subtype="SteelPlate" Count="10" />
       </Components>
-      <CriticalComponent Subtype="Computer" Index="0" />
+      <CriticalComponent Subtype="Reactor" Index="0" />
       <MountPoints>
         <MountPoint Side="Bottom" StartX="0.33" StartY="0.33" EndX="0.66" EndY="0.66" />
         <MountPoint Side="Back" StartX="0.33" StartY="0.33" EndX="0.66" EndY="0.66" />
@@ -14642,7 +14643,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <RequiredPowerInput>0.0002</RequiredPowerInput>
+      <RequiredPowerInput>100</RequiredPowerInput>
       <Public>true</Public>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
@@ -14660,14 +14661,15 @@
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Small\Projector.mwm</Model>
       <Components>
-        <Component Subtype="SteelPlate" Count="1" />
+        <Component Subtype="Reactor" Count="100" />
+	<Component Subtype="SteelPlate" Count="1" />
         <Component Subtype="Construction" Count="2" />
         <Component Subtype="LargeTube" Count="2" />
         <Component Subtype="Motor" Count="1" />
         <Component Subtype="Computer" Count="2" />
         <Component Subtype="SteelPlate" Count="1" />
       </Components>
-      <CriticalComponent Subtype="Computer" Index="0" />
+      <CriticalComponent Subtype="Reactor" Index="0" />
       <MountPoints>
         <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" />
         <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
@@ -14684,7 +14686,7 @@
       <EdgeType>Light</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <RequiredPowerInput>0.0001</RequiredPowerInput>
+      <RequiredPowerInput>1</RequiredPowerInput>
       <Public>true</Public>
       <DamageEffectId>212</DamageEffectId>
       <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -16425,7 +16427,7 @@
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
-      <MaxRange>500</MaxRange>
+      <MaxRange>50</MaxRange>
     </Definition>
     <Definition xsi:type="MyObjectBuilder_SensorBlockDefinition">
       <Id>
@@ -19489,12 +19491,13 @@
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Large\TimerBlock.mwm</Model>
       <Components>
+	<Component Subtype="Reactor" Count="1000" />
         <Component Subtype="InteriorPlate" Count="6" />
         <Component Subtype="Construction" Count="20" />
         <Component Subtype="Computer" Count="5" />
         <Component Subtype="Construction" Count="10" />
       </Components>
-      <CriticalComponent Subtype="Computer" Index="0" />
+      <CriticalComponent Subtype="Reactor" Index="0" />
       <MountPoints>
         <MountPoint Side="Left" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" />
         <MountPoint Side="Right" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" />
@@ -19528,12 +19531,13 @@
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Small\TimerBlock.mwm</Model>
       <Components>
+	<Component Subtype="Reactor" Count="100" />
         <Component Subtype="InteriorPlate" Count="2" />
         <Component Subtype="Construction" Count="2" />
         <Component Subtype="Computer" Count="1" />
         <Component Subtype="Construction" Count="1" />
       </Components>
-      <CriticalComponent Subtype="Computer" Index="0" />
+      <CriticalComponent Subtype="Reactor" Index="0" />
       <BuildProgressModels>
         <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Small\TimerBlockConstruction_1.mwm" />
         <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Small\TimerBlockConstruction_2.mwm" />
@@ -19542,7 +19546,7 @@
       <BlockPairName>TimerBlock</BlockPairName>
       <EdgeType>Light</EdgeType>
       <ResourceSinkGroup>Utility</ResourceSinkGroup>
-      <BuildTimeSeconds>2</BuildTimeSeconds>
+      <BuildTimeSeconds>20</BuildTimeSeconds>
     </Definition>
     <Definition>
       <Id>
