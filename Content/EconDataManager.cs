@@ -78,56 +78,56 @@ namespace Economy.scripts.EconConfig
       <TypeId>MyObjectBuilder_AmmoMagazine</TypeId>
       <SubtypeName>NATO_5p56x45mm</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>2.35</SellPrice>
-      <BuyPrice>2.09</BuyPrice>
+      <SellPrice>1.501335</SellPrice>
+      <BuyPrice>1.501335</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_AmmoMagazine</TypeId>
       <SubtypeName>NATO_25x184mm</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>84.78</SellPrice>
-      <BuyPrice>75.36</BuyPrice>
+      <SellPrice>26.294424</SellPrice>
+      <BuyPrice>26.294424</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_AmmoMagazine</TypeId>
       <SubtypeName>Missile200mm</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>59.10 </SellPrice>
-      <BuyPrice>52.54</BuyPrice>
+      <SellPrice>10.094312</SellPrice>
+      <BuyPrice>10.094312</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Construction</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>2</SellPrice>
-      <BuyPrice>1.78</BuyPrice>
+      <SellPrice>0.001744</SellPrice>
+      <BuyPrice>0.001744</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>MetalGrid</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>52.19</SellPrice>
-      <BuyPrice>58.72</BuyPrice>
+      <SellPrice>0.146479</SellPrice>
+      <BuyPrice>0.146479</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>InteriorPlate</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.70</SellPrice>
-      <BuyPrice>0.62</BuyPrice>
+      <SellPrice>0.000610</SellPrice>
+      <BuyPrice>0.000610</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>SteelPlate</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>4.20</SellPrice>
-      <BuyPrice>3.73</BuyPrice>
+      <SellPrice>0.003662</SellPrice>
+      <BuyPrice>0.003662</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
@@ -142,344 +142,344 @@ namespace Economy.scripts.EconConfig
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>SmallTube</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>1</SellPrice>
-      <BuyPrice>0.89</BuyPrice>
+      <SellPrice>0.000872</SellPrice>
+      <BuyPrice>0.000872</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>LargeTube</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>6</SellPrice>
-      <BuyPrice>5.34</BuyPrice>
+      <SellPrice>0.005232</SellPrice>
+      <BuyPrice>0.005232</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Motor</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>37.74</SellPrice>
-      <BuyPrice>33.54</BuyPrice>
+      <SellPrice>0.058600</SellPrice>
+      <BuyPrice>0.058600</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Display</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>21.99</SellPrice>
-      <BuyPrice>19.54</BuyPrice>
+      <SellPrice>0.011490</SellPrice>
+      <BuyPrice>0.011490</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>BulletproofGlass</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>65.36</SellPrice>
-      <BuyPrice>58.10</BuyPrice>
+      <SellPrice>0.033946</SellPrice>
+      <BuyPrice>0.033946</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Computer</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.97</SellPrice>
-      <BuyPrice>0.86</BuyPrice>
+      <SellPrice>0.000540</SellPrice>
+      <BuyPrice>0.000540</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Reactor</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>52.23</SellPrice>
-      <BuyPrice>46.42</BuyPrice>
+      <SellPrice>0.041211</SellPrice>
+      <BuyPrice>0.041211</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Thrust</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>140.62</SellPrice>
-      <BuyPrice>125</BuyPrice>
+      <SellPrice>0.372646</SellPrice>
+      <BuyPrice>0.372646</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>GravityGenerator</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>1920.16</SellPrice>
-      <BuyPrice>1706.81</BuyPrice>
+      <SellPrice>5.101434</SellPrice>
+      <BuyPrice>5.101434</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Medical</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>666.32</SellPrice>
-      <BuyPrice>592.29</BuyPrice>
+      <SellPrice>0.917108</SellPrice>
+      <BuyPrice>0.917108</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>RadioCommunication</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>5.96</SellPrice>
-      <BuyPrice>5.30</BuyPrice>
+      <SellPrice>0.003658</SellPrice>
+      <BuyPrice>0.003658</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Detector</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>102.20</SellPrice>
-      <BuyPrice>90.85</BuyPrice>
+      <SellPrice>0.166209</SellPrice>
+      <BuyPrice>0.166209</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Explosives</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>46.38</SellPrice>
-      <BuyPrice>41.23</BuyPrice>
+      <SellPrice>14.991038</SellPrice>
+      <BuyPrice>14.991038</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>SolarCell</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>102.33</SellPrice>
-      <BuyPrice>90.96</BuyPrice>
+      <SellPrice>0.128329</SellPrice>
+      <BuyPrice>0.128329</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>PowerCell</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>19.85</SellPrice>
-      <BuyPrice>17.65</BuyPrice>
+      <SellPrice>0.026052</SellPrice>
+      <BuyPrice>0.026052</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Stone</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.13</SellPrice>
-      <BuyPrice>0.12</BuyPrice>
+      <SellPrice>0.0000002</SellPrice>
+      <BuyPrice>0.0000002</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Iron</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.11</SellPrice>
-      <BuyPrice>0.10</BuyPrice>
+      <SellPrice>0.0001161</SellPrice>
+      <BuyPrice>0.0001161</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Nickel</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>2.16</SellPrice>
-      <BuyPrice>1.92</BuyPrice>
+      <SellPrice>0.0041987</SellPrice>
+      <BuyPrice>0.0041987</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Cobalt</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>1.81</SellPrice>
-      <BuyPrice>1.61</BuyPrice>
+      <SellPrice>0.0062032</SellPrice>
+      <BuyPrice>0.0062032</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Magnesium</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.07</SellPrice>
-      <BuyPrice>0.06</BuyPrice>
+      <SellPrice>0.0500827</SellPrice>
+      <BuyPrice>0.0500827</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Silicon</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>2.44</SellPrice>
-      <BuyPrice>2.17</BuyPrice>
+      <SellPrice>0.0015069</SellPrice>
+      <BuyPrice>0.0015069</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Silver</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.73</SellPrice>
-      <BuyPrice>0.65</BuyPrice>
+      <SellPrice>0.0006435</SellPrice>
+      <BuyPrice>0.0006435</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Gold</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.08</SellPrice>
-      <BuyPrice>0.07</BuyPrice>
+      <SellPrice>0.0001776</SellPrice>
+      <BuyPrice>0.0001776</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Platinum</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.05</SellPrice>
-      <BuyPrice>0.04</BuyPrice>
+      <SellPrice>0.0015710</SellPrice>
+      <BuyPrice>0.0015710</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Uranium</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.07</SellPrice>
-      <BuyPrice>0.06</BuyPrice>
+      <SellPrice>0.0665000</SellPrice>
+      <BuyPrice>0.0665000</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Stone</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.19</SellPrice>
-      <BuyPrice>0.17</BuyPrice>
+      <SellPrice>0.000202550</SellPrice>
+      <BuyPrice>0.000202550</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Iron</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>0.20</SellPrice>
-      <BuyPrice>0.18</BuyPrice>
+      <SellPrice>0.000174563</SellPrice>
+      <BuyPrice>0.000174563</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Nickel</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>6.75</SellPrice>
-      <BuyPrice>6</BuyPrice>
+      <SellPrice>0.011049303</SellPrice>
+      <BuyPrice>0.011049303</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Cobalt</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>7.53</SellPrice>
-      <BuyPrice>6.69</BuyPrice>
+      <SellPrice>0.021765651</SellPrice>
+      <BuyPrice>0.021765651</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Magnesium</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>12.30</SellPrice>
-      <BuyPrice>10.93</BuyPrice>
+      <SellPrice>7.531237340</SellPrice>
+      <BuyPrice>7.531237340</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Silicon</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>4.36</SellPrice>
-      <BuyPrice>3.87</BuyPrice>
+      <SellPrice>0.002265985</SellPrice>
+      <BuyPrice>0.002265985</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Silver</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>9.10</SellPrice>
-      <BuyPrice>8.09</BuyPrice>
+      <SellPrice>0.006773230</SellPrice>
+      <BuyPrice>0.006773230</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Gold</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>9.87</SellPrice>
-      <BuyPrice>8.77</BuyPrice>
+      <SellPrice>0.018691102</SellPrice>
+      <BuyPrice>0.018691102</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Platinum</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>12.37</SellPrice>
-      <BuyPrice>11</BuyPrice>
+      <SellPrice>0.330747318</SellPrice>
+      <BuyPrice>0.330747318</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Uranium</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>12.36</SellPrice>
-      <BuyPrice>10.99</BuyPrice>
+      <SellPrice>10</SellPrice>
+      <BuyPrice>10</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_PhysicalGunObject</TypeId>
       <SubtypeName>AutomaticRifleItem</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>7.35</SellPrice>
-      <BuyPrice>6.53</BuyPrice>
+      <SellPrice>0.011573</SellPrice>
+      <BuyPrice>0.011573</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_OxygenContainerObject</TypeId>
       <SubtypeName>OxygenBottle</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>261.99</SellPrice>
-      <BuyPrice>232.88</BuyPrice>
+      <SellPrice>0.413176</SellPrice>
+      <BuyPrice>0.413176</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_PhysicalGunObject</TypeId>
       <SubtypeName>WelderItem</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>12.68</SellPrice>
-      <BuyPrice>11.27</BuyPrice>
+      <SellPrice>1</SellPrice>
+      <BuyPrice>1</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_PhysicalGunObject</TypeId>
       <SubtypeName>AngleGrinderItem</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>19.23</SellPrice>
-      <BuyPrice>17.09</BuyPrice>
+      <SellPrice>1</SellPrice>
+      <BuyPrice>1</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_PhysicalGunObject</TypeId>
       <SubtypeName>HandDrillItem</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>7.81</SellPrice>
-      <BuyPrice>6.94</BuyPrice>
+      <SellPrice>1</SellPrice>
+      <BuyPrice>1</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Scrap</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>0.13</SellPrice>
-      <BuyPrice>0.11</BuyPrice>
+      <SellPrice>0.000116105</SellPrice>
+      <BuyPrice>0.000116105</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ingot</TypeId>
       <SubtypeName>Scrap</SubtypeName>
       <Quantity>0</Quantity>
-      <SellPrice>0.13</SellPrice>
-      <BuyPrice>0.11</BuyPrice>
+      <SellPrice>0.000116105</SellPrice>
+      <BuyPrice>0.000116105</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_Ore</TypeId>
       <SubtypeName>Ice</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>11.57</SellPrice>
-      <BuyPrice>10.29</BuyPrice>
+      <SellPrice>0.0002565</SellPrice>
+      <BuyPrice>0.0002565</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
@@ -487,15 +487,15 @@ namespace Economy.scripts.EconConfig
       <SubtypeName>Organic</SubtypeName>
       <Quantity>100</Quantity>
       <SellPrice>1</SellPrice>
-      <BuyPrice>0.89</BuyPrice>
+      <BuyPrice>1</BuyPrice>
       <IsBlacklisted>true</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
       <TypeId>MyObjectBuilder_GasContainerObject</TypeId>
       <SubtypeName>HydrogenBottle</SubtypeName>
       <Quantity>100</Quantity>
-      <SellPrice>1</SellPrice>
-      <BuyPrice>0.89</BuyPrice>
+      <SellPrice>10</SellPrice>
+      <BuyPrice>10</BuyPrice>
       <IsBlacklisted>true</IsBlacklisted>
     </MarketStruct>
   </MarketItems>
