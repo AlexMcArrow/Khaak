@@ -134,8 +134,8 @@ namespace Economy.scripts.EconConfig
       <TypeId>MyObjectBuilder_Component</TypeId>
       <SubtypeName>Girder</SubtypeName>
       <Quantity>1000</Quantity>
-      <SellPrice>1.40</SellPrice>
-      <BuyPrice>1.24</BuyPrice>
+      <SellPrice>1</SellPrice>
+      <BuyPrice>1</BuyPrice>
       <IsBlacklisted>false</IsBlacklisted>
     </MarketStruct>
     <MarketStruct>
